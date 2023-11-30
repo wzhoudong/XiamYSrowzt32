@@ -1,5 +1,5 @@
 #[starknet::contract]
-mod zdecho_rsthol {
+mod test_echo {
     #[storage]
     struct Storage {}
 
