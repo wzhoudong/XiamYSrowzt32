@@ -1,6 +1,6 @@
 use debug::PrintTrait;
 
-fn zra_yly() {
-    let fib5 = fib(0, 3, 9);
-    fib5.print();
+fn my_mczz() {
+    let niscka99 = fib(0, 3, 9);
+    niscka99.print();
 }
